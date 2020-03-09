@@ -40,6 +40,21 @@
     padding: 10px 8px;
 }
 
+.title {
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.title button {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+}
+
 .title h3 {
 
     font-family: 'Rubik', sans-serif;
