@@ -1,5 +1,5 @@
 
-function createDivElementWidthTagName(tagName) {
+function createDivElementWithTagName(tagName) {
 
     let div = document.createElement('div');
     div.className = tagName
